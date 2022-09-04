@@ -1,3 +1,8 @@
+# Progress in GitHub
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 # Hello everyone I'm learning MarkDown.
 ## Hello everyone I'm learning MarkDown.
 ### Hello everyone I'm learning MarkDown.
